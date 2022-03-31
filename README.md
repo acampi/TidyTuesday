@@ -2,7 +2,7 @@
 
 My contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge, a weekly social data project by [Thomas Mock](https://thomasmock.netlify.com/) and [R4DS Online Learning Community](https://twitter.com/r4dscommunity) that focuses on data wrangling and visualisation. More information about #TidyTuesday is available at: [https://github.com/rfordatascience/tidytuesday#readme](https://github.com/rfordatascience/tidytuesday#readme).
 
-My #TidyTuesday visualisations and code are shown below. Feedback is very welcome via [Twitter](https://twitter.com/leeolney3) or [albertcampillo@gmail.com](mailto:albertcampillo@gmail.com).
+My #TidyTuesday visualisations and code are shown below. Feedback is very welcome via [Twitter](https://twitter.com/albertcampillo) or [albertcampillo@gmail.com](mailto:albertcampillo@gmail.com).
 
 **List of contributions**
 <details open>
@@ -35,7 +35,7 @@ My #TidyTuesday visualisations and code are shown below. Feedback is very welcom
 
 ***
 ## 2022 
-* [Week 07/2022: World Freedom Index]((https://github.com/acampi/Tidytuesday/tree/main/2022/2022_W07)  
+* [Week 07/2022: World Freedom Index](https://github.com/acampi/Tidytuesday/tree/main/2022/2022_W07)  
 [![name](https://github.com/acampi/Tidytuesday/blob/main/2022/2022_W07/2022_W07_2.png)](https://github.com/acampi/Tidytuesday/blob/main/2022/2022_W07/analysis.R)
 ***
 * [Week 05/2022: Dog Breeds](https://github.com/acampi/Tidytuesday/tree/main/2022/2022_W05)  
